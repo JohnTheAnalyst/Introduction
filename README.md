@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnTheAnalyst
+- 👋 Hi, I’m João L. F. Kuanga also known as @JohnTheAnalyst
 - 👀 I’m interested in strategic consultancy, business intelligence and Analytics, data science, and Finance
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on Business/Data Analytics projects
